@@ -1,0 +1,63 @@
+.mainBlock{
+    width: 95%;
+    height: 70vh;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.container {
+    overflow: auto;
+    transition: 0.2s linear;
+
+}
+
+.container:hover{
+    background-color: #c4f8c4;
+}
+
+.informationBlock{
+    float: left;
+    margin-left: 30px;
+    width: 85%;
+    height: 100%;
+    text-align: left;
+}
+
+.redirectBlock{
+    margin-left: 210px;
+    margin-top: 30px;
+    height: 100%;
+}
+
+.newsTitle{
+    font-family: "Times New Roman", serif;
+    font-weight: bold;
+    font-size: 22px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.newsLink{
+    font-family: "Times New Roman", serif;
+    font-weight: bold;
+    font-size: 12px;
+    color: darkgrey;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.userNTime{
+    font-family: "Times New Roman", serif;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.scoreStyle{
+    font-family: "Times New Roman", serif;
+    font-weight: bold;
+    font-size: 22px;
+    color: #029370;
+    margin-top: 0;
+    margin-bottom: 10px;
+}

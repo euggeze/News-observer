@@ -1,0 +1,18 @@
+.PaginateButton{
+    height: 40px;
+    width: 120px;
+    background-color: white;
+    border-style: double;
+    border-color: cadetblue;
+    font-family: "Times New Roman", serif;
+    font-weight: bold;
+    font-size: 18px;
+    color: #029370;
+    margin: 20px 20px;
+    cursor: pointer;
+    transition: 0.2s linear;
+}
+
+.PaginateButton:hover{
+    background-color: #c4f8c4;
+}
